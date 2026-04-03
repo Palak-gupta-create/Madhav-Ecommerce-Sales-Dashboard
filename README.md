@@ -26,7 +26,7 @@ It helps in understanding key business metrics like revenue, quantity sold, prof
 
 ## 🛠️ Tools & Technologies Used
 
-- Power BI / Excel (or mention what you used)
+- Power BI / Excel 
 - Data Visualization
 - Data Cleaning & Analysis
 
@@ -81,7 +81,3 @@ This project is created for:
 - Passionate about Data & Visualization
 
 ---
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub and share your feedback!
